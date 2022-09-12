@@ -1,3 +1,50 @@
 p {
-    background-color: pink;
+  background-color: red;
+}
+
+h1 {
+  text-align: center;
+  background-color: red;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-image: url("./képek/PUSKAUSARENA_SZM_960px.jpg");
+  background-size: cover;
+}
+
+p2 {
+    background-color: white;
+}
+
+h2 {
+    background-color: white;
+}
+
+p3 {
+    background-color: white;
+}
+
+h3 {
+    background-color: white;
+    text-align: center;
+}
+
+p4 {
+    background-color: green;
+}
+
+p5 {
+    background-color: green;
+}
+
+img {
+    text-align: center;
+}
+
+h4 {
+    background-color: green;
 }
